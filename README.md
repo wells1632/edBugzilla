@@ -1,0 +1,2 @@
+# edBugzilla
+Bugzilla comment editor
